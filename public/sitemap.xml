@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/KanitaBlog/en/sitemap.xml</loc>
     
       <lastmod>2024-09-17T11:15:05+02:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/pt-br/sitemap.xml</loc>
+    <loc>http://localhost:1313/KanitaBlog/pt-br/sitemap.xml</loc>
     
       <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     
