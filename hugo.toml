@@ -1,4 +1,4 @@
-baseURL = "https://kani12345.github.io/KanitaBlog/"
+baseURL = "https://kani12345.github.io/KanitaBlog"
 title = "kanita"
 theme = "hugo-coder"
 languageCode = "en"
