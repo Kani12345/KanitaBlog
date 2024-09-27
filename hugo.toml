@@ -17,7 +17,7 @@ noClasses = false
 [params]
 author = "Kanita Loisy"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Kaita Loisy's personal website"
+description = "Kanita Loisy's personal website"
 keywords = "blog,developer,personal"
 info = ["Computer Science engineering student" , "Augmented and Virtual Reality Master Student"]
 avatarURL = "images/photo_link.jpeg"
