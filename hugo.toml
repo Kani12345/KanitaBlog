@@ -1,4 +1,4 @@
-baseURL = "https://kani12345.github.io/KanitaBlog/"
+baseURL = "http://localhost:1313/KanitaBlog/"
 title = "kanita"
 theme = "hugo-coder"
 languageCode = "en"
@@ -17,15 +17,15 @@ noClasses = false
 [params]
 author = "Kanita Loisy"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "Kaita Loisy's personal website"
 keywords = "blog,developer,personal"
-info = ["Computer Science engineering student" , "Augmented and Virtul Reality MAster Student"]
-avatarURL = "images/bgd.png"
+info = ["Computer Science engineering student" , "Augmented and Virtual Reality Master Student"]
+avatarURL = "images/photo_link.jpeg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
+commit = "https://github.com/Kani12345"
 # Right To Left, shift content direction for languages such as Arabic
 rtl = false
 # Specify light/dark colorscheme
@@ -134,39 +134,19 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/Kani12345"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa-brands fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://gitlabev.imtbs-tsp.eu/kanita.loisy"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa-brands fa-medium fa-2x"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa-solid fa-rss fa-2x"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+url = "https://www.linkedin.com/in/kanita-loisy/"
 
 [languages.en]
 languageName = ":uk:"
@@ -220,3 +200,8 @@ url = "projects/"
 name = "Contato"
 weight = 5
 url = "contact/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
