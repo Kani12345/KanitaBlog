@@ -16,3 +16,7 @@ Human-Computer Interaction (HCI) is the study and design of how people interact 
 Design in Human-Computer Interaction (HCI) is crucial as it shapes the way users interact with technology, ensuring systems are intuitive, efficient, and accessible. Good design enhances user satisfaction by minimizing complexity and reducing errors, creating a seamless experience. It also considers users' diverse needs, addressing usability, inclusivity, and accessibility across various devices and contexts. A well-designed interface supports cognitive processes, making tasks more straightforward and improving productivity. Ultimately, effective HCI design bridges the gap between humans and technology, making systems more functional, enjoyable, and effective
 
 ### Examples of Bad Designs 
+#### Impractical design 
+
+#### Discriminatory design 
+

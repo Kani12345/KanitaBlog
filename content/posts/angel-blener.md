@@ -6,7 +6,7 @@ description = "Description of my blender project"
 +++
 
 
-# Making an angel on blender
+<h1 text-align: center> Making an angel on blender </h1>
 
 ![Angel](/KanitaBlog/posts/cover_angel_article.png)
 
@@ -48,7 +48,7 @@ The textures provided allowed me to reproduce a realistic visual aspect of the e
 
 Here are the textures I used for the globe: 
 
-![blanc_oeil](/KanitaBlog/posts/blanc_oeil.jpeg)
+
 <img src="http://localhost:1313/KanitaBlog/posts/blanc_oeil.jpeg" alt="blanc_oeil">
 
 
