@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on kanita</title>
+    <link>http://localhost:1313/KanitaBlog/posts/</link>
+    <description>Recent content in Posts on kanita</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/KanitaBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Angel Project on Blender</title>
+      <link>http://localhost:1313/KanitaBlog/posts/angel-blener/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/angel-blener/</guid>
+      <description>&lt;h1 text-align: center&gt; Making an angel on blender &lt;/h1&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Angel&#34; src=&#34;http://localhost:1313/KanitaBlog/KanitaBlog/posts/cover_angel_article.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In our blender class, we had to make a 3D object of our liking on blender using the tools we learned in class. I decided to make the biblically accurate angel for aesthetic reasons and also because I thought it involved a lot of blender features: the use of different textures, a complex use of the shadow editor, the use of several transformers (array and path) as well as the animator.&#xA;The textures used are not made by me, I will put them all at the end of the article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is bad design?</title>
+      <link>http://localhost:1313/KanitaBlog/posts/bad-design/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/bad-design/</guid>
+      <description>&lt;h2 id=&#34;human-computer-interface-how-bad-designs-can-be-improved&#34;&gt;&#xA;  Human-Computer Interface: how bad designs can be improved&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#human-computer-interface-how-bad-designs-can-be-improved&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;what-is-hci&#34;&gt;&#xA;  What is HCI?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-hci&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Human-Computer Interaction (HCI) is the study and design of how people interact with computers and digital systems. It focuses on creating user-friendly interfaces that enhance the user experience, considering factors like usability, accessibility, and efficiency. HCI integrates principles from psychology, design, computer science, and ergonomics to understand human behavior and optimize technology for intuitive use. It aims to make technology more accessible and engaging by designing systems that align with users&amp;rsquo; needs and capabilities. Overall, HCI seeks to improve the interaction between humans and machines to ensure technology serves people effectively.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
