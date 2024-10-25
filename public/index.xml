@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kanita</title>
+    <link>http://localhost:1313/KanitaBlog/</link>
+    <description>Recent content on kanita</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/KanitaBlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity game project: Christmas Islands</title>
+      <link>http://localhost:1313/KanitaBlog/posts/christmas_islands/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/christmas_islands/</guid>
+      <description>&lt;h1 text-align: center&gt; Unity Game Project: Christmas Islands &lt;/h1&gt;  &#xD;&#xA;&lt;p&gt;For my unity class, I had to make a 3D unity game. I chose to do a 3D platformer on the theme of Christmas where the player has to collect all the presents to win. Click &lt;a href=&#34;http://localhost:1313/KanitaBlog/KanitaBlog/posts/Final_Game.zip&#34; &gt;here&lt;/a&gt; if you want to download the game and &lt;a href=&#34;https://github.com/Kani12345/ChristmasIsland&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;there&lt;/a&gt; if you want to see the project on github.&lt;/p&gt;&#xA;&lt;h2 id=&#34;finalised-game&#34;&gt;&#xA;  Finalised game&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#finalised-game&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The game is divised in three scenes. Upon lanch, the first scene is the menu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unity project: roll a ball</title>
+      <link>http://localhost:1313/KanitaBlog/posts/rolll-a-ball/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/rolll-a-ball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gestalt laws misapplications</title>
+      <link>http://localhost:1313/KanitaBlog/posts/gestalt_laws/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/gestalt_laws/</guid>
+      <description>&lt;h1 id=&#34;how-gestalt-laws-can-be-misleading-when-misused&#34;&gt;&#xA;  How gestalt laws can be misleading when misused&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#how-gestalt-laws-can-be-misleading-when-misused&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-are-gestalt-laws&#34;&gt;&#xA;  What are Gestalt laws?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-are-gestalt-laws&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Gestalt laws, also known as Gestalt principles, are a set of rules that describe how humans naturally perceive visual elements as unified wholes rather than isolated parts. These principles are essential for understanding how we interpret and organize visual information.&lt;/p&gt;&#xA;&lt;p&gt;The main Gestalt laws include:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The ultimate display by Ivan E.Sutherland</title>
+      <link>http://localhost:1313/KanitaBlog/posts/ultimate-display/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/ultimate-display/</guid>
+      <description>&lt;p&gt;Ivan Sutherland’s “The Ultimate Display” is a visionary work that laid the foundation for modern virtual reality and augmented reality technologies. In his essay, Sutherland imagined a future where computers could simulate real-world experiences so vividly that they would be indistinguishable from reality. He foresaw many ideas that are now integrated into our lives, such as interactive 3D environments, digital simulations, and immersive virtual experiences.&lt;/p&gt;&#xA;&lt;h1 id=&#34;predictions-that-have-already-come-true&#34;&gt;&#xA;  Predictions That Have Already Come True&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#predictions-that-have-already-come-true&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;virtual-reality-and-augmented-reality&#34;&gt;&#xA;  Virtual reality and augmented reality&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#virtual-reality-and-augmented-reality&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Sutherland predicted the concept of immersing people in computer-generated environments. Today, VR headsets like Oculus Rift and HTC Vive allow users to explore detailed virtual worlds. Similarly, AR technology, which overlays digital information onto the physical world, is prevalent in applications like Pokémon GO or industrial training software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Angel Project on Blender</title>
+      <link>http://localhost:1313/KanitaBlog/posts/angel-blener/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/angel-blener/</guid>
+      <description>&lt;h1 text-align: center&gt; Making an angel on blender &lt;/h1&gt;&#xA;&lt;img src=&#34;http://localhost:1313/KanitaBlog/KanitaBlog/posts/cover_angel_article.png&#34; alt=&#34;Angel&#34; width=700&gt;&#xA;&lt;p&gt;In our blender class, we had to make a 3D object of our liking on blender using the tools we learned in class. I decided to make the biblically accurate angel for aesthetic reasons and also because I thought it involved a lot of blender features: the use of different textures, a complex use of the shadow editor, the use of several transformers (array and path) as well as the animator.&#xA;The textures used are not made by me, I will put them all at the end of the article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shaowen Bardzell: A Pioneer in Feminist HCI</title>
+      <link>http://localhost:1313/KanitaBlog/posts/feminist-hci-researcher/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/feminist-hci-researcher/</guid>
+      <description>&lt;h1 id=&#34;shaowen-bardzell-a-pioneer-in-feminist-hci&#34;&gt;&#xA;  Shaowen Bardzell: A Pioneer in Feminist HCI&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#shaowen-bardzell-a-pioneer-in-feminist-hci&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Shaowen Bardzell is a leading scholar in the field of Human-Computer Interaction (HCI), known for her groundbreaking work in integrating feminist theory into technology design. Her research has reshaped the way we think about the intersection of gender, design, and user experience, making her one of the most influential figures in feminist HCI. By advocating for more inclusive and socially conscious approaches to technology, Bardzell has brought attention to the often-overlooked needs of marginalized groups in the design of digital systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using kinect</title>
+      <link>http://localhost:1313/KanitaBlog/posts/kinect/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/kinect/</guid>
+      <description>&lt;h1 id=&#34;testing-functions-using-microsoft-kinect&#34;&gt;&#xA;  Testing functions using microsoft kinect&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#testing-functions-using-microsoft-kinect&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-is-microsoft-kinect&#34;&gt;&#xA;  What is microsoft kinect&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-microsoft-kinect&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Microsoft Kinect is a motion-sensing input device initially developed for the Xbox 360 gaming console and later integrated with Windows PCs. Released in 2010, it was designed to enable users to control and interact with their Xbox games or applications without the need for a traditional controller. Kinect uses a combination of depth-sensing cameras, an RGB camera, and an array of microphones to detect motion, recognize faces, and process voice commands.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dark design patterns</title>
+      <link>http://localhost:1313/KanitaBlog/posts/dark-design/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/dark-design/</guid>
+      <description>&lt;h1 id=&#34;dark-design-pattern&#34;&gt;&#xA;  Dark design pattern&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#dark-design-pattern&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Dark design, also known as dark patterns, refers to manipulative design techniques used in websites and apps to deceive or coerce users into taking actions they may not want to take. These designs exploit user behavior and psychology, often prioritizing company goals like maximizing profit over user interests. Common dark patterns include making subscription cancellations difficult, tricking users into signing up for services, or using guilt-laden language to influence decisions. While these tactics may boost short-term engagement, they erode user trust and can lead to frustration or dissatisfaction. Ethical design, in contrast, focuses on transparency and respecting user autonomy.&#xA;In this article, we will focus on two dark design patterns: the roach motel and the confirm shaming We will also see how then can be redesigned to be more ethical.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is bad design?</title>
+      <link>http://localhost:1313/KanitaBlog/posts/bad-design/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/bad-design/</guid>
+      <description>&lt;h2 id=&#34;human-computer-interface-how-it-can-be-improved-through-better-affordances&#34;&gt;&#xA;  Human-Computer Interface: how it can be improved through better affordances&amp;quot;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#human-computer-interface-how-it-can-be-improved-through-better-affordances&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;what-is-hci&#34;&gt;&#xA;  What is HCI?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-hci&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Human-Computer Interaction (HCI) is the study and design of how people interact with computers and digital systems. It focuses on creating user-friendly interfaces that enhance the user experience, considering factors like usability, accessibility, and efficiency. HCI integrates principles from psychology, design, computer science, and ergonomics to understand human behavior and optimize technology for intuitive use. It aims to make technology more accessible and engaging by designing systems that align with users&amp;rsquo; needs and capabilities. Overall, HCI seeks to improve the interaction between humans and machines to ensure technology serves people effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>http://localhost:1313/KanitaBlog/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>http://localhost:1313/KanitaBlog/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://localhost:1313/KanitaBlog/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/KanitaBlog/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/KanitaBlog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/contact/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:kanita.loisy@telecom-sudparis.eu&#34; &gt;kanita.loisy@telecom-sudparis.eu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/KanitaBlog/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
