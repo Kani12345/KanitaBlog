@@ -20,7 +20,7 @@
       <link>http://localhost:1313/KanitaBlog/posts/rolll-a-ball/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/KanitaBlog/posts/rolll-a-ball/</guid>
-      <description></description>
+      <description>&lt;h1 text-align: center&gt; Roll a ball: a unity project for android &lt;/h1&gt;&#xD;&#xA;For one of my class, I had to implement a &#34;roll a ball&#34; game: a 3D game destined for Androids where the controller can move around a ball by making it roll. &#xD;&#xA;I decided to implement it as a maze on the theme of space that the user has to solve while collecting stars collectibles.</description>
     </item>
     <item>
       <title>Gestalt laws misapplications</title>
