@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kanita on kanita</title>
+    <title>Kanita on kanita loisy</title>
     <link>http://localhost:1313/KanitaBlog/authors/kanita/</link>
-    <description>Recent content in Kanita on kanita</description>
+    <description>Recent content in Kanita on kanita loisy</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/KanitaBlog/authors/kanita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Input Devices and Interaction Paradigms: the exemple of the google glass </title>
+      <link>http://localhost:1313/KanitaBlog/posts/input-devices-and-interaction-paradigms/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/input-devices-and-interaction-paradigms/</guid>
+      <description>&lt;h1 id=&#34;input-devices-and-interaction-paradigms-why-the-google-glass-faiiled&#34;&gt;&#xA;  Input devices and interaction paradigms: why the google glass faiiled&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#input-devices-and-interaction-paradigms-why-the-google-glass-faiiled&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Google Glass is classified as a wearable AR device with a head-mounted display and gesture-based input capabilities. This device was intended to create a seamless experience between the physical and digital worlds, providing hands-free access to information through a small screen above the user’s right eye. Google Glass featured a touch-sensitive frame, voice command input, and a built-in camera, aimed at offering real-time, on-the-go data in an unobtrusive way.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unity game project: Christmas Islands</title>
       <link>http://localhost:1313/KanitaBlog/posts/christmas_islands/</link>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kanita</title>
+    <title>Posts on kanita loisy</title>
     <link>http://localhost:1313/KanitaBlog/posts/</link>
-    <description>Recent content in Posts on kanita</description>
+    <description>Recent content in Posts on kanita loisy</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/KanitaBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Input Devices and Interaction Paradigms: the exemple of the google glass </title>
+      <link>http://localhost:1313/KanitaBlog/posts/input-devices-and-interaction-paradigms/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/KanitaBlog/posts/input-devices-and-interaction-paradigms/</guid>
+      <description>&lt;h1 id=&#34;input-devices-and-interaction-paradigms-why-the-google-glass-faiiled&#34;&gt;&#xA;  Input devices and interaction paradigms: why the google glass faiiled&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#input-devices-and-interaction-paradigms-why-the-google-glass-faiiled&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Google Glass is classified as a wearable AR device with a head-mounted display and gesture-based input capabilities. This device was intended to create a seamless experience between the physical and digital worlds, providing hands-free access to information through a small screen above the user’s right eye. Google Glass featured a touch-sensitive frame, voice command input, and a built-in camera, aimed at offering real-time, on-the-go data in an unobtrusive way.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unity game project: Christmas Islands</title>
       <link>http://localhost:1313/KanitaBlog/posts/christmas_islands/</link>
@@ -16,11 +23,11 @@
       <description>&lt;h1 text-align: center&gt; Unity Game Project: Christmas Islands &lt;/h1&gt;  &#xD;&#xA;&lt;p&gt;For my unity class, I had to make a 3D unity game. I chose to do a 3D platformer on the theme of Christmas where the player has to collect all the presents to win. Click &lt;a href=&#34;http://localhost:1313/KanitaBlog/KanitaBlog/posts/Final_Game.zip&#34; &gt;here&lt;/a&gt; if you want to download the game and &lt;a href=&#34;https://github.com/Kani12345/ChristmasIsland&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;there&lt;/a&gt; if you want to see the project on github.&lt;/p&gt;&#xA;&lt;h2 id=&#34;finalised-game&#34;&gt;&#xA;  Finalised game&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#finalised-game&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The game is divised in three scenes. Upon lanch, the first scene is the menu.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Unity project: roll a ball</title>
-      <link>http://localhost:1313/KanitaBlog/posts/rolll-a-ball/</link>
+      <title>Unity project: space maze, a roll a ball project</title>
+      <link>http://localhost:1313/KanitaBlog/posts/roll-a-ball/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/KanitaBlog/posts/rolll-a-ball/</guid>
-      <description>&lt;h1 text-align: center&gt; Roll a ball: a unity project for android &lt;/h1&gt;&#xD;&#xA;For one of my class, I had to implement a &#34;roll a ball&#34; game: a 3D game destined for Androids where the controller can move around a ball by making it roll. &#xD;&#xA;I decided to implement it as a maze on the theme of space that the user has to solve while collecting stars collectibles.</description>
+      <guid>http://localhost:1313/KanitaBlog/posts/roll-a-ball/</guid>
+      <description>&lt;h1 text-align: center&gt; Space maze, a unity roll a ball project for android &lt;/h1&gt;&#xD;&#xA;&lt;p&gt;For one of my class, I had to implement a &amp;ldquo;roll a ball&amp;rdquo; game: a 3D game destined for Androids where the controller can move around a ball by making it roll.&#xA;I decided to implement it as a maze on the theme of space that the user has to solve while collecting stars collectibles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gestalt laws misapplications</title>
