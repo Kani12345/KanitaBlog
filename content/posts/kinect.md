@@ -23,7 +23,7 @@ These components can be used for many applications, such as movement recognition
 ### Face Detection 
 The algorithm tested detects faces. It didn't systematically detected faces: we had to be at a distance of about one meter from the camera, and even then it didn't work systematically. 
 
-### Depth perceptio
+### Depth perception
 
 
 
