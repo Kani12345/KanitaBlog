@@ -1,5 +1,4 @@
 +++
-draft = true
 authors = ["Kanita"]
 title = "Unity game project: Christmas Islands"
 date = "2024-10-19"
