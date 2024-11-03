@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Unity project: space maze, a roll a ball project · kanita Loisy
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Kanita Loisy">
+<meta name="description" content="3D unity and a rolling ball">
+<meta name="keywords" content="blog,developer,personal">
+<meta name="fediverse:creator" content="" />
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Unity project: space maze, a roll a ball project">
+  <meta name="twitter:description" content="3D unity and a rolling ball">
+
+<meta property="og:url" content="https://kani12345.github.io/KanitaBlog/posts/roll-a-ball/">
+  <meta property="og:site_name" content="kanita Loisy">
+  <meta property="og:title" content="Unity project: space maze, a roll a ball project">
+  <meta property="og:description" content="3D unity and a rolling ball">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-10-19T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-10-19T00:00:00+00:00">
+
+
+
+
+<link rel="canonical" href="https://kani12345.github.io/KanitaBlog/posts/roll-a-ball/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/KanitaBlog/css/coder.min.aa5ef26fa979d6793724ae2dbd71efa94fd16cb1c5c7db3b6651f21f9892a5fd.css" integrity="sha256-ql7yb6l51nk3JK4tvXHvqU/RbLHFx9s7ZlHyH5iSpf0=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/KanitaBlog/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="https://kani12345.github.io/KanitaBlog/">
+      kanita Loisy
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/KanitaBlog/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/KanitaBlog/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/KanitaBlog/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/KanitaBlog/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://kani12345.github.io/KanitaBlog/posts/roll-a-ball/">
+              Unity project: space maze, a roll a ball project
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2024-10-19T00:00:00Z">
+                October 19, 2024
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              5-minute read
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/KanitaBlog/authors/kanita/">Kanita</a></div>
+
+          
+          
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 text-align: center> Space maze, a unity roll a ball project for android </h1>
+<p>For one of my class, I had to implement a &ldquo;roll a ball&rdquo; game: a 3D game destined for Androids where the controller can move around a ball by making it roll.
+I decided to implement it as a maze on the theme of space that the user has to solve while collecting stars collectibles.</p>
+<h2 id="building-the-game">
+  Building the game
+  <a class="heading-link" href="#building-the-game">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h3 id="setting-up-the-player">
+  Setting up the player
+  <a class="heading-link" href="#setting-up-the-player">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The player isa planet earth that rolls throughout the galaxy. I used <a href="https://assetstore.unity.com/packages/3d/environments/sci-fi/planet-earth-free-23399"  class="external-link" target="_blank" rel="noopener">this asset</a>.
+On a computer, the player is controlled through the keybord keys. On a phone, it is controlled by tilting the phone. The script is able to recognize if an android device is used or not to change the input accordingly.<br>
+Here is the script that allows to control the player:</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-c# data-lang=c#><span class=line><span class=cl>
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using UnityEditor;
+using UnityEngine;
+using UnityEngine.InputSystem;
+<p>public class MovePlayer : MonoBehaviour
+{
+// Start is called before the first frame update
+public float speed = 10f;
+private Rigidbody rb;
+private float movementX;
+private float movementY;
+private bool isMobileBuild = false;
+void Start()
+{</p>
+<pre><code>    rb = GetComponent&lt;Rigidbody&gt;();
+  
+    #if UNITY_ANDROID || UNITY_IOS
+            isMobileBuild = true;
+    #endif
+    
+
+}
+
+private void OnMove(InputValue movementValue)
+{
+    Vector2 movementVector = movementValue.Get&lt;Vector2&gt;();
+    movementX = movementVector.x;
+    movementY = movementVector.y;
+
+
+
+}
+
+// Update is called once per frame
+void Update()
+{
+
+    
+}
+private void FixedUpdate()
+{
+    //Vector3 movement = new Vector3(movementX, 0.0f, movementY);
+    Vector3 movement = Vector3.zero;
+    if(isMobileBuild &amp;&amp; UnityEngine.InputSystem.Accelerometer.current != null){
+        Vector3 acceleration = UnityEngine.InputSystem.Accelerometer.current.acceleration.ReadValue();
+        movement = new Vector3(acceleration.x, 0.0f, acceleration.y);
+    }
+    else
+    {
+        movement = new Vector3(movementX, 0.0f, movementY);
+    }
+    rb.AddForce(movement * speed);
+}
+</code></pre>
+<p>}
+</span></span></code></pre></div></p>
+<p>The user applies forces are then applied to the ball (the earth). These forces are obtained through the input system.</p>
+<h4 id="setting-of-the-camera">
+  Setting of the camera
+  <a class="heading-link" href="#setting-of-the-camera">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>For the player to have  a good vision on the game, the camera must follow the ball. To achieve that, we apply this script to the camera.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-c# data-lang=c#><span class=line><span class=cl>
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+<p>public class CameraController : MonoBehaviour
+{
+/<em>private Vector3 offset;
+public float rotationSpeed = 1f;
+public Transform target, player;
+private float mouseX, mouseY;
+public float clampYUp = 30f, clampYDown = 30f;
+private float playerRotOffset;</em>/
+public GameObject player;
+private Vector3 offset;</p>
+<pre><code>// Start is called before the first frame update
+void Start()
+{
+    //playerRotOffset = player.transform.rotation.y;
+    offset = transform.position - player.transform.position;
+
+
+}
+
+// Update is called once per frame
+private void LateUpdate()
+{
+    /*mouseX += Input.GetAxis(&quot;Mouse X&quot;) * rotationSpeed;
+    mouseY -= Input.GetAxis(&quot;Mouse Y&quot;) * rotationSpeed;
+    mouseY = Mathf.Clamp(mouseY, -1 * clampYUp, clampYDown);
+
+    transform.LookAt(target);
+    player.rotation = Quaternion.Euler(0, playerRotOffset + mouseX, 0);
+    this.transform.rotation *= Quaternion.Euler(mouseY, 0, 0);*/
+    transform.position = player.transform.position + offset; 
+}
+</code></pre>
+<p>}</p>
+<p></span></span></code></pre></div></p>
+<h3 id="setting-up-the-main-scene">
+  Setting up the main scene
+  <a class="heading-link" href="#setting-up-the-main-scene">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<h4 id="building-a-maze">
+  Building a maze
+  <a class="heading-link" href="#building-a-maze">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>I used a maze picture as an plane object and buildt the walls on top of it to obtain the same maze.
+<img src="/KanitaBlog/posts/labyinth_top.png" alt="climbing" width= 500>
+To obtain the disered space ambiance, I used the music Dark Matter by Björk and the galaxy skybox from this <a href="https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633"  class="external-link" target="_blank" rel="noopener">set</a>.</p>
+<h4 id="collectibles">
+  Collectibles
+  <a class="heading-link" href="#collectibles">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>The collectibles are little shiny orbs. They are not very noticeable and are similar to the star in the background on purpose. When picked up, they dissapear and the number of stars collected increase. To make this work, the first script must be associated to each collectible object and the second must be asociated to a text objet of the canvas.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-c# data-lang=c#><span class=line><span class=cl>
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+<p>public class Collectible : MonoBehaviour
+{
+public static event Action OnCollected;
+public static int total;
+public static event Action OnAllCollected;
+private static int collectedCount = 0;</p>
+<pre><code>// Update is called once per frame
+void Update()
+{
+    transform.localRotation = Quaternion.Euler(0f, Time.time * 130f, 0);
+
+}
+void OnTriggerEnter(Collider other)
+{
+    if (other.tag == &quot;Player&quot;)
+    {
+        Debug.Log(&quot;Etoile récupérée!&quot;);
+        OnCollected?.Invoke();
+        collectedCount++;
+        Destroy(gameObject);
+
+
+    }
+    if(collectedCount &gt;= total)
+    {
+        OnAllCollected?.Invoke();
+    }
+
+}
+</code></pre>
+<p>}</p>
+<p></span></span></code></pre></div></p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-c# data-lang=c#><span class=line><span class=cl>
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using TMPro;
+using Unity.VisualScripting;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+<p>public class CollectedCount : MonoBehaviour
+{
+[SerializeField]
+private TMP_Text m_TextComponent;</p>
+<pre><code>public static int count;
+// Start is called before the first frame update
+
+
+// Update is called once per frame
+void Awake()
+{
+    Debug.Log(&quot;Avant initialisation de text&quot;);
+    m_TextComponent = GetComponent&lt;TMP_Text&gt;();
+    if (m_TextComponent == null)
+    {
+        Debug.Log(&quot;c'est null&quot;);
+    }
+    //m_TextComponent.text = &quot;Some new line of text.&quot;; 
+    Debug.Log(&quot;Après initialisation de text&quot;);
+
+}
+void Start()
+{
+    UpdateCount();
+}
+
+void OnEnable() =&gt; Collectible.OnCollected += OnCollectibleCollected;
+
+void OnDisable() =&gt; Collectible.OnCollected -= OnCollectibleCollected;
+
+void OnCollectibleCollected()
+{
+    count++;
+    if (count == Collectible.total)
+    {
+        m_TextComponent.text = &quot;Bravo! Toutes les étoiles ont été récupérées&quot;;
+        //SceneManager.LoadScene(2);
+    }
+    else
+    {
+        UpdateCount();
+    }
+}
+
+
+//affiche le nombre de cadeaux récupérés
+void UpdateCount()
+{
+    m_TextComponent.text = $&quot;{count} / {Collectible.total} &quot;;
+}
+</code></pre>
+<p>}
+</span></span></code></pre></div></p>
+<h4 id="black-holes">
+  Black holes
+  <a class="heading-link" href="#black-holes">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>If the player collide into a black hole, they would lose. The black holes where made using this 3D asset and a simple script to have them constantly moving along a predefined path.
+<a href="https://assetstore.unity.com/packages/tools/particles-effects/dark-singularity-156548"  class="external-link" target="_blank" rel="noopener">This</a> is the asset that I used for the black holes.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-c# data-lang=c#><span class=line><span class=cl>
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+<p>public class Oscillate : MonoBehaviour
+{
+public Vector3 from = new Vector3(0f, 0f, 135f);
+public Vector3 to = new Vector3(0f, 0f, 225f);
+public float speed = 1.0f;
+// Start is called before the first frame update
+void Start()
+{</p>
+<pre><code>}
+
+// Update is called once per frame
+void Update()
+{
+    float t = (Mathf.Sin(Time.time * speed * Mathf.PI * 2.0f) + 1.0f) / 2.0f;
+    transform.position = Vector3.Lerp(from, to, t);
+}
+</code></pre>
+<p>}
+</span></span></code></pre></div></p>
+<h3 id="runthrough">
+  Runthrough
+  <a class="heading-link" href="#runthrough">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<h4 id="winning-runthrough">
+  Winning runthrough
+  <a class="heading-link" href="#winning-runthrough">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>To win, the player must collect all stars and exit the labyrinth. The exit is blocked if the player doen&rsquo;t have all th stars.
+<video width="700" height="480" controls>
+<source src="\KanitaBlog\posts\runthrough_win.mp4" type="video/mp4">
+<source src="\KanitaBlog\posts\runthrough_win.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video></p>
+<h4 id="loosing-runthrough">
+  Loosing runthrough
+  <a class="heading-link" href="#loosing-runthrough">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<video width="700" height="480" controls>
+  <source src="\KanitaBlog\posts\runthrough_lost.mp4" type="video/mp4">
+  <source src="\KanitaBlog\posts\runthrough_lost.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+<h4 id="runthrough-on-a-phone-with-unity-remote">
+  Runthrough on a phone with Unity Remote
+  <a class="heading-link" href="#runthrough-on-a-phone-with-unity-remote">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<video width="700" height="480" controls>
+  <source src="\KanitaBlog\posts\remote_unity.mp4" type="video/mp4">
+  <source src="\KanitaBlog\posts\remote_unity.mp4" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2024
+     Kanita Loisy 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/KanitaBlog/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
